@@ -6,10 +6,7 @@ namespace ORM_Dapper
 {
     public class Program
     {
-        public static void GetAllDepartments()
-        {
-
-        }
+       
 
         public static void InsertDepartment()
         {
